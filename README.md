@@ -1,7 +1,7 @@
 # A Home assistant custom component to get your MNGL gas bill information.
 
-To get started put all the files from`/custom_components/covid19indiatracker/` here:
-`<config directory>/custom_components/covid19indiatracker/`
+To get started put all the files from`/custom_components/mngl_hass/` here:
+`<config directory>/custom_components/mngl_hass/`
 
 **Example configuration.yaml:**
 
