@@ -1,0 +1,1 @@
+"""mngl_hass integration."""

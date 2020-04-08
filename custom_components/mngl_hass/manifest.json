@@ -1,0 +1,10 @@
+{
+    "domain": "mngl_hass",
+    "name": "MNGL hass",
+    "documentation": "https://github.com/hemantkamalakar/mngl_hass",
+    "dependencies": [],
+    "codeowners": ["@hemantkamalakar"],
+    "requirements": [
+      "integrationhelper==0.1.0"
+    ]
+  }
